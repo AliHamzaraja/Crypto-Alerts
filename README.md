@@ -1,4 +1,4 @@
-# crypto_alerts
+# cryptoproject
 
 A new Flutter project.
 
